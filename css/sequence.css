@@ -248,7 +248,7 @@
     width: auto;
   }
 }
-@media only screen and (max-width: 568px) {
+@media only screen and (max-width: 100%) {
   #sequence-theme .model {
     left: 50%;
     min-width: 40%;

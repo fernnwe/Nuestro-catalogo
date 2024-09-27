@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
   margin-bottom: 15px;
-  color: #383838;
+  color: white;
   font-weight: bold;
 }
 
@@ -193,7 +193,7 @@ h6 {
 /* parallax */
 
 section#intro {
-  background: #000 url(../img/bg/bg1.jpg) 50% 0 no-repeat;
+  background: #000 url(../img/bg/bg1.png) 50% 0 no-repeat;
   color: #fff;
   max-height: 650px;
   height: auto;
